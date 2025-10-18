@@ -25,6 +25,7 @@
               }
             ],
             "styles": [
+              "node_modules/bootswatch/dist/morph/bootstrap.min.css",
               "src/styles.css"
             ]
           },
